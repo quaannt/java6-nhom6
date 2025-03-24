@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Ps18663DuongMinhHieuAsmApplication<PS19246_NguyenHoangPhuc_ASM>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.asm.Ps18663DuongMinhHieuAsmApplication",
+            "projectName": "PS19246_NguyenHoangPhuc_ASM",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
